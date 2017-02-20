@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">"" Action List</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dueDateHint">Action Date</string>
+    <string name="taskNameHint">Action Name</string>
+    <string name="priorityText">Priority</string>
+    <string name="lowButtonText">Low</string>
+    <string name="mediumButtonText">Medium</string>
+    <string name="highButtonText">High</string>
+    <string name="urgentButtonText">Urgent</string>
+    <string name="submitButtonText">Submit</string>
+    <string name="removeButtonText">REMOVE</string>
+
+</resources>
+
