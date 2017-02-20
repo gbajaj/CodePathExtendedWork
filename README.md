@@ -21,5 +21,5 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories: 
 
-![[Video WalkThrough](https://cloud.githubusercontent.com/assets/1209826/23141506/fab88d00-f76b-11e6-8b8a-fb9ce355cc7f.gif)
+![Video WalkThrough](https://cloud.githubusercontent.com/assets/1209826/23141506/fab88d00-f76b-11e6-8b8a-fb9ce355cc7f.gif)
 
